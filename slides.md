@@ -2,11 +2,13 @@
 
 --
 
-## Typography
+## Stundentafel
 
 ---
 
-## Quotes
+## 1.Stundentafel
+
+![image](https://user-images.githubusercontent.com/95867717/202421119-06005fb6-b999-4388-902e-328c025a9417.png)
 
 > Quotes are ~~hard~~ easy
 > to write - but you can use `code`
