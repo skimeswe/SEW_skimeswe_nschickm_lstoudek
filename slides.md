@@ -6,7 +6,7 @@
 
 ---
 
-## 1.Stundentafel
+## 1.Stundentafel - Allgemein
 
 ![image](https://user-images.githubusercontent.com/95867717/202421119-06005fb6-b999-4388-902e-328c025a9417.png)
 
@@ -15,7 +15,9 @@
 
 ---
 
-## Styles
+## 1.Stundentafel - Netzwertechnik
+
+![image](https://user-images.githubusercontent.com/95867717/203752411-982a566d-955e-4c91-a9b7-9a9bc7a2353c.png)
 
 You can freely mix **bold**, *italics*, `code` and normal styles
 
@@ -129,12 +131,38 @@ with forced line break!
 
 --
 
-## Syntax highlighting   
+## SEW - Lehrstoff  
 
 ---
 
-## Java 
+## Strukturierte Programmierung 
 
+* Programme mit Hilfe von Methoden oder Funktionen strukturiere und in einer höheren Programmiersprache umsetzen;
+* elementare Datentypen und Kontrollstrukturen erläutern sowie geeignete Datentypen für ihre Programme auswählen;
+* einfache API-Dokumentationen auf Methodenebene lesen und verstehen;
+* einfache Programmbibliotheken für gängige Aufgaben verwenden.
+
+---
+
+ ## Bereich Algorithmen und Datenstrukturen
+* einfache Datenstrukturen einsetzen;
+* einfache Datenstrukturen sortieren und darin ein Element suchen.
+
+## Bereich Softwareentwicklungsprozess
+* mit gängigen Werkzeugen zur Unterstützung der Softwareentwicklung umgehen;
+* im Rahmen der Programmentwicklung Fehler finden und beheben;
+* einfache Testfälle definieren und damit Programme systematisch testen.
+
+---
+
+## JavaScript
+
+```js [1-2|3|4]
+    let a = 1;
+    let b = 2;
+    let c = x => 1 + 2 + x;
+    c(3);
+```
 ```java [1-6|3-5]
 public class TheFirst extends Object
 {
@@ -146,8 +174,9 @@ public static void main(String[] args)
 }
 }
 ```
-
 ---
+
+
 
 ## JavaScript
 
