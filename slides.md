@@ -6,7 +6,7 @@
 
 ---
 
-## 1.Stundentafel
+## 1.Stundentafel - Allgemein 
 
 ![image](https://user-images.githubusercontent.com/95867717/202421119-06005fb6-b999-4388-902e-328c025a9417.png)
 
@@ -15,7 +15,9 @@
 
 ---
 
-## Styles
+## 1.Stundentafel - Netzwertechnik
+
+![image](https://user-images.githubusercontent.com/95867717/203752411-982a566d-955e-4c91-a9b7-9a9bc7a2353c.png)
 
 You can freely mix **bold**, *italics*, `code` and normal styles
 
