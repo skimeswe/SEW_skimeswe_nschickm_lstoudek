@@ -141,19 +141,6 @@ with forced line break!
 * elementare Datentypen und Kontrollstrukturen erläutern sowie geeignete Datentypen für ihre Programme auswählen;
 * einfache API-Dokumentationen auf Methodenebene lesen und verstehen;
 * einfache Programmbibliotheken für gängige Aufgaben verwenden.
-![image](https://user-images.githubusercontent.com/95867717/203755370-b59e1f60-ea21-49c1-b446-1aabbbddc2cf.png)
-
-```java [1-6|3-5]
-public class TheFirst extends Object
-{
-  
-public static void main(String[] args)
-  
-{
-  
-}
-}
-```
 
 ---
 
@@ -165,7 +152,17 @@ public static void main(String[] args)
     let c = x => 1 + 2 + x;
     c(3);
 ```
-
+```java [1-6|3-5]
+public class TheFirst extends Object
+{
+  
+public static void main(String[] args)
+  
+{
+  
+}
+}
+```
 ---
 
 ## Callouts 
