@@ -6,7 +6,7 @@
 
 ---
 
-## 1.Stundentafel - Allgemein 
+## 1.Stundentafel
 
 ![image](https://user-images.githubusercontent.com/95867717/202421119-06005fb6-b999-4388-902e-328c025a9417.png)
 
@@ -15,9 +15,7 @@
 
 ---
 
-## 1.Stundentafel - Netzwertechnik
-
-![image](https://user-images.githubusercontent.com/95867717/203752411-982a566d-955e-4c91-a9b7-9a9bc7a2353c.png)
+## Styles
 
 You can freely mix **bold**, *italics*, `code` and normal styles
 
@@ -89,16 +87,15 @@ with forced line break!
 
 --
 
-## Fragments
+## Projekte und Programme
 
 ---
 
-## Dont reveal all at once!
+##C++
 
-- Item 1 <!-- .element: class="fragment" data-fragment-index="2" -->
-- Item 2 <!-- .element: class="fragment" data-fragment-index="1" -->
-- Item 3 <!-- .element: class="fragment" data-fragment-index="3" -->
-
+- ![image](![grafik](https://user-images.githubusercontent.com/95427526/203756308-0378aafc-c781-42a1-b5a2-1fe579ac59d9.png)) <!-- .element: class="fragment" data-fragment-index="1" -->
+- ![grafik](https://user-images.githubusercontent.com/95427526/203758289-1c140105-db6b-4829-8666-3132e62f15d8.png) <!-- .element: class="fragment" data-fragment-index="2" -->
+Quelle: Unterricht
 ---
 
 ## Fancy!
@@ -131,27 +128,12 @@ with forced line break!
 
 --
 
-## SEW - Lehrstoff  
+## Syntax highlighting   
 
 ---
 
-## Strukturierte Programmierung 
+## Java 
 
-* Programme mit Hilfe von Methoden oder Funktionen strukturiere und in einer höheren Programmiersprache umsetzen;
-* elementare Datentypen und Kontrollstrukturen erläutern sowie geeignete Datentypen für ihre Programme auswählen;
-* einfache API-Dokumentationen auf Methodenebene lesen und verstehen;
-* einfache Programmbibliotheken für gängige Aufgaben verwenden.
-
----
-
-## JavaScript
-
-```js [1-2|3|4]
-    let a = 1;
-    let b = 2;
-    let c = x => 1 + 2 + x;
-    c(3);
-```
 ```java [1-6|3-5]
 public class TheFirst extends Object
 {
@@ -163,6 +145,18 @@ public static void main(String[] args)
 }
 }
 ```
+
+---
+
+## JavaScript
+
+```js [1-2|3|4]
+    let a = 1;
+    let b = 2;
+    let c = x => 1 + 2 + x;
+    c(3);
+```
+
 ---
 
 ## Callouts 
