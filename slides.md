@@ -93,7 +93,7 @@ with forced line break!
 
 ##C++
 
-- ![grafik](![grafik](https://user-images.githubusercontent.com/95427526/203756308-0378aafc-c781-42a1-b5a2-1fe579ac59d9.png)) <!-- .element: class="fragment" data-fragment-index="1" -->
+- ![grafik](https://user-images.githubusercontent.com/95427526/203759985-c111775a-3c6a-4a52-aa96-ac57fad2c9c4.png) <!-- .element: class="fragment" data-fragment-index="1" -->
 - ![grafik](https://user-images.githubusercontent.com/95427526/203758289-1c140105-db6b-4829-8666-3132e62f15d8.png) <!-- .element: class="fragment" data-fragment-index="2" -->
 Quelle: Unterricht
 ---
