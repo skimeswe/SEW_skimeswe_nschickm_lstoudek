@@ -154,6 +154,17 @@ with forced line break!
 
 ---
 
+## Bereich Strukturierte Programmierung:
+Anweisungen und Kontrollstrukturen, elementare Datentypen und Operatoren, prozedurale Programmierung, Benennungskonventionen, API-Dokumentation, Einsatz von Bibliotheken
+
+## Bereich Algorithmen und Datenstrukturen
+	Einfache Datenstrukturen, Such- und Sortieralgorithmen
+ 
+## Bereich Softwareentwicklungsprozess
+Entwicklungsumgebungen, Testen und Fehlersuche, Debugging
+
+---
+
 ## JavaScript
 
 ```js [1-2|3|4]
