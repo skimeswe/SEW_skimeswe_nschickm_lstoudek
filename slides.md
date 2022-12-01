@@ -120,7 +120,6 @@ public class Main {
 }
 
 ```
-<br />
 ```java
 public class HelloApplication extends Application {
     @Override
