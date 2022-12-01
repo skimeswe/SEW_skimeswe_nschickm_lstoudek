@@ -8,7 +8,7 @@
 
 ## 1.Stundentafel - Allgemein
 
-![image](https://user-images.githubusercontent.com/95867717/202421119-06005fb6-b999-4388-902e-328c025a9417.png)
+
 
 > Quotes are ~~hard~~ easy
 > to write - but you can use `code`
@@ -121,7 +121,7 @@ public class Main {
 
 ```
 <br />
-![image](https://user-images.githubusercontent.com/95427526/205018594-22076e93-42a5-4023-acbd-9ac1751f3423.png)
+![grafik](https://user-images.githubusercontent.com/95427526/205024209-d64489e6-c817-4b42-a27a-f958163d466a.png)
 
 
 ## Projekte
