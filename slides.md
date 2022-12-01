@@ -121,7 +121,7 @@ public class Main {
 
 ```
 <br />
-![grafik](https://user-images.githubusercontent.com/95427526/205018594-22076e93-42a5-4023-acbd-9ac1751f3423.png)
+![image](https://user-images.githubusercontent.com/95427526/205018594-22076e93-42a5-4023-acbd-9ac1751f3423.png)
 
 
 ## Projekte
