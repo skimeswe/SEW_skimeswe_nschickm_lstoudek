@@ -121,8 +121,22 @@ public class Main {
 
 ```
 <br />
-![grafik](https://user-images.githubusercontent.com/95427526/205024209-d64489e6-c817-4b42-a27a-f958163d466a.png)
+```java
+public class HelloApplication extends Application {
+    @Override
+    public void start(Stage stage) throws IOException {
+        FXMLLoader fxmlLoader = new FXMLLoader(HelloApplication.class.getResource("hello-view.fxml"));
+        Scene scene = new Scene(fxmlLoader.load(), 320, 240);
+        stage.setTitle("Hello!");
+        stage.setScene(scene);
+        stage.show();
+    }
 
+    public static void main(String[] args) {
+        launch();
+    }
+}
+```
 
 ## Projekte
 
@@ -135,12 +149,13 @@ public class Main {
 
 ---
 
-## FAQ (Example)
+## Beispiel OpenWeatherMap
 
 ![grafik](https://user-images.githubusercontent.com/95867710/205023958-8122f4f9-732a-48dd-914d-a0525dc643bd.png)
 
 
---
+---
+
 
 ## SEW - Lehrstoff  
 
