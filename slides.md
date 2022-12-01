@@ -93,42 +93,29 @@ with forced line break!
 
 ---
 
-## C++
-```c++ 
-#include <iostream>
-
-int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
-}
-
-```
-
-
+##C++<br />
+<img src="https://user-images.githubusercontent.com/95427526/203759985-c111775a-3c6a-4a52-aa96-ac57fad2c9c4.png" height="300"><img src="https://user-images.githubusercontent.com/95427526/203758289-1c140105-db6b-4829-8666-3132e62f15d8.png" height="300">
+  <!-- .element: class="fragment" data-fragment-index="2" -->
 
 ---
 
-## JAVA && JAVAFX
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello world!");
-    }
-}
+## Fancy!
 
-```
-<br />
-![grafik](https://user-images.githubusercontent.com/95427526/205018594-22076e93-42a5-4023-acbd-9ac1751f3423.png)
-
+- Highlight Red <!-- .element: class="fragment highlight-red" data-fragment-index="2" -->
+- Fade In Then Out <!-- .element: class="fragment fade-in-then-out" data-fragment-index="1" -->
+- Slide up <!-- .element: class="fragment fade-up" data-fragment-index="3" -->
+- Appear and step aside  <!-- .element: class="fragment fade-in-then-semi-out" data-fragment-index="4" -->
 
 ---
 
-## Distinguished
+## Projekte
 
-- Item 1 <!-- .element: class="fragment semi-fade-out" data-fragment-index="1" -->
-- Item 2 <!-- .element: class="fragment semi-fade-out" data-fragment-index="2" -->
-- Item 3 <!-- .element: class="fragment semi-fade-out" data-fragment-index="3" -->
-- Item 4 <!-- .element: class="fragment semi-fade-out" data-fragment-index="4" -->
-- Item 5
+- Wetter Karte 1 <!-- .element: class="fragment semi-fade-out" data-fragment-index="1" -->
+- Raspberry Pi/ LED Cube <!-- .element: class="fragment semi-fade-out" data-fragment-index="2" -->
+- Schiffeversenken <!-- .element: class="fragment semi-fade-out" data-fragment-index="3" -->
+- Viergewinnt <!-- .element: class="fragment semi-fade-out" data-fragment-index="4" -->
+- Live Chat <!-- .element: class="fragment semi-fade-out" data-fragment-index="5" -->
+ 
 
 ---
 
