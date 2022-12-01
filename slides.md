@@ -119,14 +119,10 @@ with forced line break!
 
 ---
 
-## FAQ (Example)
+## Open Weather Map
 
-*  Question One?<!-- .element: class="fragment mdfa fa-question-circle"-->
-*  Answer One!<!-- .element: class="fragment mdfa fa-exclamation-circle"-->
-*  Question Two?<!-- .element: class="fragment mdfa fa-question-circle"-->
-*  Answer Two!<!-- .element: class="fragment mdfa fa-exclamation-circle"-->
-*  Question Three?<!-- .element: class="fragment mdfa fa-question-circle"-->
-*  Answer Three!<!-- .element: class="fragment mdfa fa-exclamation-circle"-->
+![grafik](https://user-images.githubusercontent.com/95867710/205021378-0e7d20a5-8957-4355-88d8-72cc6a645764.png)
+
 
 --
 
