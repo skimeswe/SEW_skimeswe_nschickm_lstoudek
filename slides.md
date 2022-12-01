@@ -8,10 +8,7 @@
 
 ## 1.Stundentafel - Allgemein
 
-
-
-> Quotes are ~~hard~~ easy
-> to write - but you can use `code`
+![image](https://user-images.githubusercontent.com/95867717/205031197-a74ebd3c-c14b-4cb4-8bb0-b4cc0749691c.png)
 
 ---
 
