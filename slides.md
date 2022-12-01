@@ -89,24 +89,40 @@ with forced line break!
 
 --
 
-## Projekte und Programme
+## Sprachen und Projekte
 
 ---
 
-##C++<br />
-<img src="https://user-images.githubusercontent.com/95427526/203759985-c111775a-3c6a-4a52-aa96-ac57fad2c9c4.png" height="300"><img src="https://user-images.githubusercontent.com/95427526/203758289-1c140105-db6b-4829-8666-3132e62f15d8.png" height="300">
-  <!-- .element: class="fragment" data-fragment-index="2" -->
+## C++
+C sowie C++ wird als Einstieg in das Programmieren verwendet. C ist einfach zu Lernen. <br />
+Danach ist es leichter andere Programmiersprachen wie C++ zu erlernen. 
+```c++ 
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
+}
+
+```
+
+
 
 ---
 
-## Fancy!
+## JAVA & JAVAFX
+Java ist die am meisten verwendete Programmiersprache im Unterricht und wird in der 3. bis zur 5. Klasse gelehrt. Es werden auch verscheiderne Frameworks wie Java Spring eingesetzt. JavaFX ist eine Erweiterung zum erstellen von Applicationen welches ebenfalls in der 3. Klasse erlernt wird.
+```java
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello world!");
+    }
+}
 
-- Highlight Red <!-- .element: class="fragment highlight-red" data-fragment-index="2" -->
-- Fade In Then Out <!-- .element: class="fragment fade-in-then-out" data-fragment-index="1" -->
-- Slide up <!-- .element: class="fragment fade-up" data-fragment-index="3" -->
-- Appear and step aside  <!-- .element: class="fragment fade-in-then-semi-out" data-fragment-index="4" -->
+```
+<br />
+![grafik](https://user-images.githubusercontent.com/95427526/205018594-22076e93-42a5-4023-acbd-9ac1751f3423.png)
 
----
 
 ## Projekte
 
@@ -119,10 +135,14 @@ with forced line break!
 
 ---
 
-## Open Weather Map
+## FAQ (Example)
 
-![grafik](https://user-images.githubusercontent.com/95867710/205021378-0e7d20a5-8957-4355-88d8-72cc6a645764.png)
-
+*  Question One?<!-- .element: class="fragment mdfa fa-question-circle"-->
+*  Answer One!<!-- .element: class="fragment mdfa fa-exclamation-circle"-->
+*  Question Two?<!-- .element: class="fragment mdfa fa-question-circle"-->
+*  Answer Two!<!-- .element: class="fragment mdfa fa-exclamation-circle"-->
+*  Question Three?<!-- .element: class="fragment mdfa fa-question-circle"-->
+*  Answer Three!<!-- .element: class="fragment mdfa fa-exclamation-circle"-->
 
 --
 
@@ -147,17 +167,6 @@ with forced line break!
 * mit gängigen Werkzeugen zur Unterstützung der Softwareentwicklung umgehen;
 * im Rahmen der Programmentwicklung Fehler finden und beheben;
 * einfache Testfälle definieren und damit Programme systematisch testen.
-
----
-
-## Bereich Strukturierte Programmierung:
-Anweisungen und Kontrollstrukturen, elementare Datentypen und Operatoren, prozedurale Programmierung, Benennungskonventionen, API-Dokumentation, Einsatz von Bibliotheken
-
-## Bereich Algorithmen und Datenstrukturen
-	Einfache Datenstrukturen, Such- und Sortieralgorithmen
- 
-## Bereich Softwareentwicklungsprozess
-Entwicklungsumgebungen, Testen und Fehlersuche, Debugging
 
 ---
 
