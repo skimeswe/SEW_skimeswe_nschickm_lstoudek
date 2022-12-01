@@ -160,8 +160,7 @@ public class HelloApplication extends Application {
 
 ---
 
-## Strukturierte Programmierung 
-
+### Strukturierte Programmierung 
 * Programme mit Hilfe von Methoden oder Funktionen strukturiere und in einer höheren Programmiersprache umsetzen;
 * elementare Datentypen und Kontrollstrukturen erläutern sowie geeignete Datentypen für ihre Programme auswählen;
 * einfache API-Dokumentationen auf Methodenebene lesen und verstehen;
@@ -169,11 +168,11 @@ public class HelloApplication extends Application {
 
 ---
 
- ## Bereich Algorithmen und Datenstrukturen
+ ### Bereich Algorithmen und Datenstrukturen
 * einfache Datenstrukturen einsetzen;
 * einfache Datenstrukturen sortieren und darin ein Element suchen.
 
-## Bereich Softwareentwicklungsprozess
+### Bereich Softwareentwicklungsprozess
 * mit gängigen Werkzeugen zur Unterstützung der Softwareentwicklung umgehen;
 * im Rahmen der Programmentwicklung Fehler finden und beheben;
 * einfache Testfälle definieren und damit Programme systematisch testen.
