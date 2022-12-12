@@ -117,6 +117,7 @@ public class Main {
 }
 
 ```
+---
 
 ## Projekte
 
@@ -134,7 +135,7 @@ public class Main {
 ![grafik](https://user-images.githubusercontent.com/95867710/205023958-8122f4f9-732a-48dd-914d-a0525dc643bd.png)
 
 
---
+---
 
 
 ## SEW - Lehrstoff  
