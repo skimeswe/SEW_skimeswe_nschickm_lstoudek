@@ -119,11 +119,11 @@ Entwicklungsumgebungen, Testen und Fehlersuche, Debugging
 
 ### Github
 
-<h3> GitHub ist eine Plattform für die Entwicklung von Software, bietet Tools und Funktionen, die es Entwicklerinnen und Entwicklern ermöglichen, 
+<h4> GitHub ist eine Plattform für die Entwicklung von Software, bietet Tools und Funktionen, die es Entwicklerinnen und Entwicklern ermöglichen, 
 ihren Code zu verwalten und zu teilen, Änderungen nachzuverfolgen und Feedback von anderen zu erhalten. 
 GitHub wird oft verwendet, um Open-Source-Software zu entwickeln, bei der der Code für jedermann zugänglich ist.
 Es bietet auch Unterstützung für verschiedene Programmiersprachen und bietet eine Vielzahl von Funktionen, 
-die es Entwicklerinnen und Entwicklern ermöglichen, ihre Arbeit effizienter und erfolgreicher durchzuführen. </h3>
+die es Entwicklerinnen und Entwicklern ermöglichen, ihre Arbeit effizienter und erfolgreicher durchzuführen. </h4>
 
 ---
 
