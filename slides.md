@@ -109,9 +109,6 @@ Einfache Datenstrukturen, Such- und Sortieralgorithmen
 ### Bereich Softwareentwicklungsprozess
 Entwicklungsumgebungen, Testen und Fehlersuche, Debugging
 
----
-
-
 --
 
 ## Versionskontrolle
@@ -120,7 +117,8 @@ Entwicklungsumgebungen, Testen und Fehlersuche, Debugging
 
 ### Versionskontrolle
 
-![image](https://user-images.githubusercontent.com/95867717/207251662-80637b7b-3f7e-4d72-9841-48e46a9d6bc5.png)
+
+![207251662-80637b7b-3f7e-4d72-9841-48e46a9d6bc5](https://user-images.githubusercontent.com/95427526/207254080-39880364-67df-41ff-b00d-5a143821ce6d.png)
 
 ---
 
