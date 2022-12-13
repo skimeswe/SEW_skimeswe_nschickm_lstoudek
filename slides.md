@@ -119,8 +119,8 @@ Entwicklungsumgebungen, Testen und Fehlersuche, Debugging
 
 
 ![2022-12-13 08_38_21-Dokument1 - Word](https://user-images.githubusercontent.com/95427526/207254979-3de1a35b-5f23-4a43-aeef-8fb768b1fb53.png)
---
--
+
+---
 
 ### Github
 
