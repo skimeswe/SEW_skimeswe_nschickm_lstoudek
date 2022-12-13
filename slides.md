@@ -119,11 +119,11 @@ Entwicklungsumgebungen, Testen und Fehlersuche, Debugging
 
 ### Github
 
-<h6> GitHub ist eine Plattform für die Entwicklung von Software, bietet Tools und Funktionen, die es Entwicklerinnen und Entwicklern ermöglichen, 
+<small> GitHub ist eine Plattform für die Entwicklung von Software, bietet Tools und Funktionen, die es Entwicklerinnen und Entwicklern ermöglichen, 
 ihren Code zu verwalten und zu teilen, Änderungen nachzuverfolgen und Feedback von anderen zu erhalten. 
 GitHub wird oft verwendet, um Open-Source-Software zu entwickeln, bei der der Code für jedermann zugänglich ist.
 Es bietet auch Unterstützung für verschiedene Programmiersprachen und bietet eine Vielzahl von Funktionen, 
-die es Entwicklerinnen und Entwicklern ermöglichen, ihre Arbeit effizienter und erfolgreicher durchzuführen. </h6>
+die es Entwicklerinnen und Entwicklern ermöglichen, ihre Arbeit effizienter und erfolgreicher durchzuführen. </small>
 
 ---
 
@@ -139,13 +139,17 @@ Mit Trello können Sie Ihre Projekte im Griff behalten und sicherstellen, dass a
 ---
 ## C Addition
 ![grafik](https://user-images.githubusercontent.com/95427526/207262358-ce783a71-0ac4-4cb9-bd72-c4060fc36ebc.png)
+<br />
 Ausgabe:
+<br />
 ![grafik](https://user-images.githubusercontent.com/95427526/207262409-c9e9ac78-cf78-45c7-a74f-7adc537023e3.png)
 
 ---
 ## JAVA Multiplikation
 ![grafik](https://user-images.githubusercontent.com/95427526/207261784-3d45f6c8-d32b-45e5-86f2-8dfbd49a30e1.png)
+<br />
 Ausgabe:
+<br />
 ![grafik](https://user-images.githubusercontent.com/95427526/207261887-077340fb-97bd-4320-8cc2-64483132cbf4.png)
 
 --
