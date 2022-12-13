@@ -143,6 +143,8 @@ Mit Trello können Sie Ihre Projekte im Griff behalten und sicherstellen, dass a
 Ausgabe:
 <br />
 ![grafik](https://user-images.githubusercontent.com/95427526/207262409-c9e9ac78-cf78-45c7-a74f-7adc537023e3.png)
+In den Variablen a und b werden die entsprechenden Werte gespeichert anschließend werden diese beiden Variablen addiert
+und in eine neue Variable c gespeichert. Diese am Ende ausgegeben wird.
 
 ---
 ## JAVA Multiplikation
@@ -151,6 +153,8 @@ Ausgabe:
 Ausgabe:
 <br />
 ![grafik](https://user-images.githubusercontent.com/95427526/207261887-077340fb-97bd-4320-8cc2-64483132cbf4.png)
+In den Variablen a und b werden die entsprechenden Werte gespeichert anschließend werden diese beiden Variablen multipliziert
+und in eine neue Variable c gespeichert. Diese am Ende ausgegeben wird.
 
 --
 
