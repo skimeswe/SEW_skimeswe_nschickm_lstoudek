@@ -118,9 +118,9 @@ Entwicklungsumgebungen, Testen und Fehlersuche, Debugging
 ### Versionskontrolle
 
 
-![207251662-80637b7b-3f7e-4d72-9841-48e46a9d6bc5](https://user-images.githubusercontent.com/95427526/207254080-39880364-67df-41ff-b00d-5a143821ce6d.png)
-
----
+![2022-12-13 08_38_21-Dokument1 - Word](https://user-images.githubusercontent.com/95427526/207254979-3de1a35b-5f23-4a43-aeef-8fb768b1fb53.png)
+--
+-
 
 ### Github
 
