@@ -137,7 +137,7 @@ Mit Trello können Sie Ihre Projekte im Griff behalten und sicherstellen, dass a
 
 ## Einfache Einführung
 ---
-##C Addition
+## C Addition
 ![grafik](https://user-images.githubusercontent.com/95427526/207262358-ce783a71-0ac4-4cb9-bd72-c4060fc36ebc.png)
 Ausgabe:
 ![grafik](https://user-images.githubusercontent.com/95427526/207262409-c9e9ac78-cf78-45c7-a74f-7adc537023e3.png)
