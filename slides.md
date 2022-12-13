@@ -206,24 +206,29 @@ interface Version {
 
 --
 
-## Math
+## Versionskontrolle
 
 ---
 
-## Single Line
+### Versionskontrolle
 
-
-`$$ J(\theta_0,\theta_1) = \sum_{i=0} $$`
+![image](https://user-images.githubusercontent.com/95867717/207251662-80637b7b-3f7e-4d72-9841-48e46a9d6bc5.png)
 
 ---
 
-## Multiple lines
+### Github
 
 `$$\begin{aligned}
   \dot{x} & = \sigma(y-x) \\
   \dot{y} & = \rho x - y - xz \\
   \dot{z} & = -\beta z + xy
   \end{aligned} $$`
+
+---
+
+### Trello
+
+ZUteilung und Verwaltung von Aufgaben durch den Scrummaster. 
 
 --
 
