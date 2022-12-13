@@ -15,74 +15,13 @@
 ## 1.Stundentafel - Netzwertechnik
 
 ![image](https://user-images.githubusercontent.com/95867717/203752411-982a566d-955e-4c91-a9b7-9a9bc7a2353c.png)
-
+---
 You can freely mix **bold**, *italics*, `code` and normal styles
 
 * normal
 * **bold**
 * *italics*
 * `code`
-
---
-
-## Lists
-
----
-
-## Unordered Lists
-
-* a
-* b
-  * 1
-  * 2
-    * I
-* c
-
----
-
-## Ordered Lists
-
-automatic numbering
-
-1. a
-1. b
-    1. 1
-    1. 2
-1. c
-
----
-
-## Ordered Lists
-
-custom numbering
-
-1. a  
-2. b  
-    2.1. 1  
-    2.2. 2  
-3. c
-
----
-
-## Definition Lists
-
-(actually: line breaks in long lines in lists...)
-
-* First Term  
-This is the definition of the first term.
-* Second Term  
-This is one definition of the second term.  
-This is another definition of the second term.
-
----
-
-## Font Awesome
-
-*  Itym One<!-- .element: class="mdfa fa-info-circle"--> (this is a feature test in a very long item)
-*  Itym Two<!-- .element: class="mdfa fa-question-circle"-->
-*  Itym Three<!-- .element: class="mdfa fa-exclamation-circle"-->
-*  Itym 4<!-- .element: class="mdfa fa-exclamation-triangle"-->  
-with forced line break!
 
 --
 
