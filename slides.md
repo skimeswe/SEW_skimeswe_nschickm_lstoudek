@@ -130,9 +130,9 @@ GitHub ist eine Plattform für die Entwicklung von Software, bietet Tools und Fu
 
 ### Trello
 
-Trello ist ein Projektmanagement-Tool zum Verwalten von Projekten.
-Man kann Aufgaben und Projekte verwalten und die Aufgaben visualisieren. 
-Trello kann von Einzelpersonen oder Teams verwendet werden und ist als Web-Anwendung und mobile App verfügbar.
+Trello ist ein mächtiges Projektmanagement-Tool, das dabei hilft, Aufgaben und Projekte zu verwalten und zu visualisieren. 
+Es eignet sich sowohl für Einzelpersonen als auch für Teams und ist als Web-Anwendung und mobile App verfügbar. 
+Mit Trello können Sie Ihre Projekte im Griff behalten und sicherstellen, dass alles reibungslos läuft.
 
 --
 
