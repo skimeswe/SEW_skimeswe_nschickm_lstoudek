@@ -228,7 +228,9 @@ interface Version {
 
 ### Trello
 
-ZUteilung und Verwaltung von Aufgaben durch den Scrummaster. 
+Trello ist ein Projektmanagement-Tool zum Verwalten von Projekten.
+Man kann Aufgaben und Projekte verwalten und die Aufgaben visualisieren. 
+Trello kann von Einzelpersonen oder Teams verwendet werden und ist als Web-Anwendung und mobile App verfügbar.
 
 --
 
