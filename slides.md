@@ -78,21 +78,21 @@ Gibt das aktuelle Wetter in einer gewüschten Stadt (Linz) mit einer 5 Tages Pro
 
 <small>• Programme mit Hilfe von Methoden oder Funktionen strukturieren und in einer höheren Programmiersprache umsetzen </small>
 <small>• Elementare Datentypen und Kontrollstrukturen erläutern sowie geeignete Datentypen für ihre Programme auswählen </small>
-<small>•Einfache API-Dokumentationen auf Methodenebene lesen und verstehen </small>
+<small>• Einfache API-Dokumentationen auf Methodenebene lesen und verstehen </small>
 <small>• Einfache Programmbibliotheken für gängige Aufgaben verwenden </small>
 
 ---
 
 #### Bereich Algorithmen und Datenstrukturen
 
-<small>• einfache Datenstrukturen einsetzen </small>
-<small>• einfache Datenstrukturen sortieren und darin ein Element suchen </small>
+<small>• Einfache Datenstrukturen einsetzen </small>
+<small>• Einfache Datenstrukturen sortieren und darin ein Element suchen </small>
 
 #### Bereich Softwareentwicklungsprozess
  
-<small>• mit gängigen Werkzeugen zur Unterstützung der Softwareentwicklung umgehen </small>
-<small>• im Rahmen der Programmentwicklung Fehler finden und beheben </small>
-<small>• einfache Testfälle definieren und damit Programme systematisch testen </small>
+<small>• Mit gängigen Werkzeugen zur Unterstützung der Softwareentwicklung umgehen </small>
+<small>• Im Rahmen der Programmentwicklung Fehler finden und beheben </small>
+<small>• Einfache Testfälle definieren und damit Programme systematisch testen </small>
 
 #### Bereich Softwareentwicklungsprozess
 
@@ -113,6 +113,7 @@ Gibt das aktuelle Wetter in einer gewüschten Stadt (Linz) mit einer 5 Tages Pro
 
 ### Github
 
+<p style='text-align: right;'> 
 <small> 
 GitHub ist eine Plattform für die Entwicklung von Software, bietet Tools und Funktionen, 
 die es Entwicklerinnen und Entwicklern ermöglichen, ihren Code zu verwalten und zu teilen,
@@ -122,6 +123,7 @@ bietet auch Unterstützung für verschiedene Programmiersprachen und bietet eine
 Funktionen, die es Entwicklerinnen und Entwicklern ermöglichen, ihre Arbeit effizienter 
 und erfolgreicher durchzuführen. 
 </small>
+</p>
 
 ---
 
