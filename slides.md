@@ -80,23 +80,29 @@ Gibt das aktuelle Wetter in einer gewüschten Stadt (Linz) mit einer 5 Tages Pro
 <small>• Elementare Datentypen und Kontrollstrukturen erläutern sowie geeignete Datentypen für ihre Programme auswählen </small>
 <small>• Einfache API-Dokumentationen auf Methodenebene lesen und verstehen </small>
 <small>• Einfache Programmbibliotheken für gängige Aufgaben verwenden </small>
+
 </p>
 ---
 
 #### Bereich Algorithmen und Datenstrukturen
 <p style='text-align: left;'> 
 <small>• Einfache Datenstrukturen einsetzen </small>
+    
 <small>• Einfache Datenstrukturen sortieren und darin ein Element suchen </small>
 </p>
+
 #### Bereich Softwareentwicklungsprozess
- <p style='text-align: left;'> 
+<p style='text-align: left;'> 
 <small>• Mit gängigen Werkzeugen zur Unterstützung der Softwareentwicklung umgehen </small>
 <small>• Im Rahmen der Programmentwicklung Fehler finden und beheben </small>
 <small>• Einfache Testfälle definieren und damit Programme systematisch testen </small>
+
 </p>
+
 #### Bereich Softwareentwicklungsprozess
 <p style='text-align: left;'> 
 <small>• Entwicklungsumgebungen, Testen und Fehlersuche, Debugging </small>
+    
 </p>
 
 --
