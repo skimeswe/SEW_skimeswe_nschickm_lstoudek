@@ -24,9 +24,8 @@
 
 ---
 
-## C++
-C sowie C++ wird als Einstieg in das Programmieren verwendet. C ist einfach zu Lernen. <br />
-Danach ist es leichter andere Programmiersprachen wie C++ zu erlernen. 
+## C & C++
+C sowie C++ wird als Einstieg in das Programmieren verwendet. Das Konzept von C ist einfach zu erlernen und danach auf andere Programmiersprachen wie C++ umzusetzen.
 ```c++ 
 #include <iostream>
 
