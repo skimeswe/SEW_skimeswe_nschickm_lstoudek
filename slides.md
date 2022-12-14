@@ -87,7 +87,6 @@ Gibt das aktuelle Wetter in einer gewüschten Stadt (Linz) mit einer 5 Tages Pro
 #### Bereich Algorithmen und Datenstrukturen
 <p style='text-align: left;'> 
 <small>• Einfache Datenstrukturen einsetzen </small>
-    
 <small>• Einfache Datenstrukturen sortieren und darin ein Element suchen </small>
 </p>
 
