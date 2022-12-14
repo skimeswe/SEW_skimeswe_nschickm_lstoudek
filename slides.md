@@ -75,28 +75,29 @@ Gibt das aktuelle Wetter in einer gewüschten Stadt (Linz) mit einer 5 Tages Pro
 ---
 
 #### Strukturierte Programmierung 
-
+<p style='text-align: left;'> 
 <small>• Programme mit Hilfe von Methoden oder Funktionen strukturieren und in einer höheren Programmiersprache umsetzen </small>
 <small>• Elementare Datentypen und Kontrollstrukturen erläutern sowie geeignete Datentypen für ihre Programme auswählen </small>
 <small>• Einfache API-Dokumentationen auf Methodenebene lesen und verstehen </small>
 <small>• Einfache Programmbibliotheken für gängige Aufgaben verwenden </small>
-
+</p>
 ---
 
 #### Bereich Algorithmen und Datenstrukturen
-
+<p style='text-align: left;'> 
 <small>• Einfache Datenstrukturen einsetzen </small>
 <small>• Einfache Datenstrukturen sortieren und darin ein Element suchen </small>
-
+</p>
 #### Bereich Softwareentwicklungsprozess
- 
+ <p style='text-align: left;'> 
 <small>• Mit gängigen Werkzeugen zur Unterstützung der Softwareentwicklung umgehen </small>
 <small>• Im Rahmen der Programmentwicklung Fehler finden und beheben </small>
 <small>• Einfache Testfälle definieren und damit Programme systematisch testen </small>
-
+</p>
 #### Bereich Softwareentwicklungsprozess
-
+<p style='text-align: left;'> 
 <small>• Entwicklungsumgebungen, Testen und Fehlersuche, Debugging </small>
+</p>
 
 --
 
@@ -113,7 +114,7 @@ Gibt das aktuelle Wetter in einer gewüschten Stadt (Linz) mit einer 5 Tages Pro
 
 ### Github
 
-<p style='text-align: right;'> 
+<p style='text-align: left;'> 
 <small> 
 GitHub ist eine Plattform für die Entwicklung von Software, bietet Tools und Funktionen, 
 die es Entwicklerinnen und Entwicklern ermöglichen, ihren Code zu verwalten und zu teilen,
@@ -129,6 +130,7 @@ und erfolgreicher durchzuführen.
 
 ### Trello
 
+<p style='text-align: left;'> 
 <small> 
 Trello ist ein mächtiges Projektmanagement-Tool, das dabei hilft, 
 Aufgaben und Projekte zu verwalten und zu visualisieren. Es eignet 
@@ -136,7 +138,7 @@ sich sowohl für Einzelpersonen als auch für Teams und ist als
 Web-Anwendung und mobile App verfügbar. Mit Trello können Sie Ihre
 Projekte im Griff behalten und sicherstellen, dass alles reibungslos läuft.
 </small>
-
+</p>
 --
 
 ## Einfache Einführung
