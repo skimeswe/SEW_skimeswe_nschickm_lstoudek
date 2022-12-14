@@ -85,14 +85,14 @@ Gibt das aktuelle Wetter in einer gewüschten Stadt (Linz) mit einer 5 Tages Pro
 
 #### Bereich Algorithmen und Datenstrukturen
 
-* <small>einfache Datenstrukturen einsetzen </small>
-* <small>einfache Datenstrukturen sortieren und darin ein Element suchen </small>
+<small>* einfache Datenstrukturen einsetzen </small>
+<small>* einfache Datenstrukturen sortieren und darin ein Element suchen </small>
 
 #### Bereich Softwareentwicklungsprozess
  
 * <small>mit gängigen Werkzeugen zur Unterstützung der Softwareentwicklung umgehen </small>
-* <small>im Rahmen der Programmentwicklung Fehler finden und beheben </small>
-* <small>einfache Testfälle definieren und damit Programme systematisch testen </small>
+<small>* im Rahmen der Programmentwicklung Fehler finden und beheben </small>
+<small>* einfache Testfälle definieren und damit Programme systematisch testen </small>
 
 #### Bereich Softwareentwicklungsprozess
 
@@ -106,13 +106,14 @@ Gibt das aktuelle Wetter in einer gewüschten Stadt (Linz) mit einer 5 Tages Pro
 
 #### Versionskontrolle
 ![2022-12-13 08_38_21-Dokument1 - Word](https://user-images.githubusercontent.com/95427526/207254979-3de1a35b-5f23-4a43-aeef-8fb768b1fb53.png)
-Ist die gängige Vorgehensweise für die Entwicklung eines Programms.
+
+<h4>Ist die gängige Vorgehensweise für die Entwicklung eines Programms.</h4>
 
 ---
 
 ### Github
 
-<h4> 
+<h6> 
 GitHub ist eine Plattform für die Entwicklung von Software, bietet Tools und Funktionen, 
 die es Entwicklerinnen und Entwicklern ermöglichen, ihren Code zu verwalten und zu teilen,
 Änderungen nachzuverfolgen und Feedback von anderen zu erhalten. GitHub wird oft verwendet,
@@ -120,19 +121,19 @@ um Open-Source-Software zu entwickeln, bei der der Code für jedermann zugängli
 bietet auch Unterstützung für verschiedene Programmiersprachen und bietet eine Vielzahl von 
 Funktionen, die es Entwicklerinnen und Entwicklern ermöglichen, ihre Arbeit effizienter 
 und erfolgreicher durchzuführen. 
-</h4>
+</h6>
 
 ---
 
 ### Trello
 
-<h4> 
+<h6> 
 Trello ist ein mächtiges Projektmanagement-Tool, das dabei hilft, 
 Aufgaben und Projekte zu verwalten und zu visualisieren. Es eignet 
 sich sowohl für Einzelpersonen als auch für Teams und ist als 
 Web-Anwendung und mobile App verfügbar. Mit Trello können Sie Ihre
 Projekte im Griff behalten und sicherstellen, dass alles reibungslos läuft.
-</h4>
+</h6>
 
 --
 
