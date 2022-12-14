@@ -8,7 +8,7 @@
 
 ## Stundentafel - Netzwertechnik
 
-<img width="642" alt="image" src="https://user-images.githubusercontent.com/95867717/207616319-1fd10300-4f59-4b58-a9a9-49dd9a6c5cfd.png">
+<img width="640" alt="image" src="https://user-images.githubusercontent.com/95867717/207616319-1fd10300-4f59-4b58-a9a9-49dd9a6c5cfd.png">
 <img width="640" alt="image" src="https://user-images.githubusercontent.com/95867717/207616421-d062a7f1-9ea2-4e8a-9411-672eae5f12d2.png">
 
 --
@@ -41,7 +41,7 @@ Der primäre Fokus der 3. bis 5. Klasse liegt auf Java, einer der am meist verwe
 ```java
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        System.out.println("Hello, world!");
     }
 }
 
@@ -75,29 +75,28 @@ Gibt das aktuelle Wetter in einer gewüschten Stadt (Linz) mit einer 5 Tages Pro
 ---
 
 #### Strukturierte Programmierung 
-<small>
-* Programme mit Hilfe von Methoden oder Funktionen strukturieren und in einer höheren Programmiersprache umsetzen
-* Elementare Datentypen und Kontrollstrukturen erläutern sowie geeignete Datentypen für ihre Programme auswählen
-* Einfache API-Dokumentationen auf Methodenebene lesen und verstehen
-* Einfache Programmbibliotheken für gängige Aufgaben verwenden </small>
+
+* <small>Programme mit Hilfe von Methoden oder Funktionen strukturieren und in einer höheren Programmiersprache umsetzen </small>
+* <small>Elementare Datentypen und Kontrollstrukturen erläutern sowie geeignete Datentypen für ihre Programme auswählen </small>
+* <small>Einfache API-Dokumentationen auf Methodenebene lesen und verstehen </small>
+* <small>Einfache Programmbibliotheken für gängige Aufgaben verwenden </small>
 
 ---
 
- #### Bereich Algorithmen und Datenstrukturen
- <small>
-* einfache Datenstrukturen einsetzen;
-* einfache Datenstrukturen sortieren und darin ein Element suchen.
-</small>
- #### Bereich Softwareentwicklungsprozess
- <small>
-* mit gängigen Werkzeugen zur Unterstützung der Softwareentwicklung umgehen;
-* im Rahmen der Programmentwicklung Fehler finden und beheben;
-* einfache Testfälle definieren und damit Programme systematisch testen.
-</small>
- #### Bereich Softwareentwicklungsprozess
-<small>
-Entwicklungsumgebungen, Testen und Fehlersuche, Debugging
-</small>
+#### Bereich Algorithmen und Datenstrukturen
+
+* <small>einfache Datenstrukturen einsetzen </small>
+* <small>einfache Datenstrukturen sortieren und darin ein Element suchen </small>
+
+#### Bereich Softwareentwicklungsprozess
+ 
+* <small>mit gängigen Werkzeugen zur Unterstützung der Softwareentwicklung umgehen </small>
+* <small>im Rahmen der Programmentwicklung Fehler finden und beheben </small>
+* <small>einfache Testfälle definieren und damit Programme systematisch testen </small>
+
+#### Bereich Softwareentwicklungsprozess
+
+* <small>Entwicklungsumgebungen, Testen und Fehlersuche, Debugging </small>
 
 --
 
@@ -106,16 +105,14 @@ Entwicklungsumgebungen, Testen und Fehlersuche, Debugging
 ---
 
 #### Versionskontrolle
-
 ![2022-12-13 08_38_21-Dokument1 - Word](https://user-images.githubusercontent.com/95427526/207254979-3de1a35b-5f23-4a43-aeef-8fb768b1fb53.png)
-
 Ist die gängige Vorgehensweise für die Entwicklung eines Programms.
 
 ---
 
 ### Github
 
-<small> 
+<h4> 
 GitHub ist eine Plattform für die Entwicklung von Software, bietet Tools und Funktionen, 
 die es Entwicklerinnen und Entwicklern ermöglichen, ihren Code zu verwalten und zu teilen,
 Änderungen nachzuverfolgen und Feedback von anderen zu erhalten. GitHub wird oft verwendet,
@@ -123,19 +120,19 @@ um Open-Source-Software zu entwickeln, bei der der Code für jedermann zugängli
 bietet auch Unterstützung für verschiedene Programmiersprachen und bietet eine Vielzahl von 
 Funktionen, die es Entwicklerinnen und Entwicklern ermöglichen, ihre Arbeit effizienter 
 und erfolgreicher durchzuführen. 
-</small>
+</h4>
 
 ---
 
 ### Trello
 
-<small> 
+<h4> 
 Trello ist ein mächtiges Projektmanagement-Tool, das dabei hilft, 
 Aufgaben und Projekte zu verwalten und zu visualisieren. Es eignet 
 sich sowohl für Einzelpersonen als auch für Teams und ist als 
 Web-Anwendung und mobile App verfügbar. Mit Trello können Sie Ihre
 Projekte im Griff behalten und sicherstellen, dass alles reibungslos läuft.
-</small>
+</h4>
 
 --
 
