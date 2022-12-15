@@ -148,7 +148,7 @@ Projekte im Griff behalten und sicherstellen, dass alles reibungslos läuft.
 ## Einfache Einführung
 ---
 ## C Addition
-```java
+```c
 #include <stdio.h>
 
 int main() {
@@ -162,8 +162,9 @@ int main() {
 <br />
 Ausgabe:
 <br />
-![grafik](https://user-images.githubusercontent.com/95427526/207262409-c9e9ac78-cf78-45c7-a74f-7adc537023e3.png)
-
+```c
+12
+```
 <small>In den Variablen a und b werden die entsprechenden Werte gespeichert anschließend werden diese beiden Variablen addiert
 und in eine neue Variable c gespeichert. Diese am Ende mit "printf" ausgegeben wird.</small>
 
@@ -182,8 +183,9 @@ und in eine neue Variable c gespeichert. Diese am Ende mit "printf" ausgegeben w
 <br />
 Ausgabe:
 <br />
-![grafik](https://user-images.githubusercontent.com/95427526/207261887-077340fb-97bd-4320-8cc2-64483132cbf4.png)
-
+```java
+15
+```
 <small> In den Variablen a und b werden die entsprechenden Werte gespeichert anschließend werden diese beiden Variablen multipliziert
 und in eine neue Variable c gespeichert. Diese am Ende mit "System.out.println" ausgegeben wird.</small>
 
