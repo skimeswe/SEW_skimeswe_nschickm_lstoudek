@@ -1,4 +1,4 @@
-# SEW HTL-Steyr
+# Softwareentwicklung - SEW 
 
 --
 
@@ -13,6 +13,41 @@
 
 --
 
+## SEW - Lehrstoff  
+
+---
+
+#### Strukturierte Programmierung 
+<p style='text-align: left;'> 
+<small>• Programme mit Hilfe von Methoden oder Funktionen strukturieren und in einer höheren Programmiersprache umsetzen </small>
+<small>• Elementare Datentypen und Kontrollstrukturen erläutern sowie geeignete Datentypen für ihre Programme auswählen </small>
+<small>• Einfache API-Dokumentationen auf Methodenebene lesen und verstehen </small>
+<small>• Einfache Programmbibliotheken für gängige Aufgaben verwenden </small>
+
+</p>
+---
+
+#### Bereich Algorithmen und Datenstrukturen
+<p style='text-align: left;'> 
+<small>• Einfache Datenstrukturen einsetzen </small> <br>
+<small>• Einfache Datenstrukturen sortieren und darin ein Element suchen </small>
+</p>
+
+#### Bereich Softwareentwicklungsprozess
+<p style='text-align: left;'> 
+<small>• Mit gängigen Werkzeugen zur Unterstützung der Softwareentwicklung umgehen </small>
+<small>• Im Rahmen der Programmentwicklung Fehler finden und beheben </small>
+<small>• Einfache Testfälle definieren und damit Programme systematisch testen </small>
+
+</p>
+
+#### Bereich Softwareentwicklungsprozess
+<p style='text-align: left;'> 
+<small>• Entwicklungsumgebungen, Testen und Fehlersuche, Debugging </small>
+    
+</p>
+
+--
 
 ## Sprachen und Projekte
 
@@ -66,43 +101,6 @@ In diesem Beispiel wird "Hello, World!" ausgegeben.
 ![grafik](https://user-images.githubusercontent.com/95867710/205023958-8122f4f9-732a-48dd-914d-a0525dc643bd.png)
 
 Gibt das aktuelle Wetter in einer gewüschten Stadt (Linz) mit einer 5 Tages Prognose aus. Wird umgesetzt mittels OpenWeatherMap, ein Dienst für Wettervorhersagen.
-
---
-
-
-## SEW - Lehrstoff  
-
----
-
-#### Strukturierte Programmierung 
-<p style='text-align: left;'> 
-<small>• Programme mit Hilfe von Methoden oder Funktionen strukturieren und in einer höheren Programmiersprache umsetzen </small>
-<small>• Elementare Datentypen und Kontrollstrukturen erläutern sowie geeignete Datentypen für ihre Programme auswählen </small>
-<small>• Einfache API-Dokumentationen auf Methodenebene lesen und verstehen </small>
-<small>• Einfache Programmbibliotheken für gängige Aufgaben verwenden </small>
-
-</p>
----
-
-#### Bereich Algorithmen und Datenstrukturen
-<p style='text-align: left;'> 
-<small>• Einfache Datenstrukturen einsetzen </small> <br>
-<small>• Einfache Datenstrukturen sortieren und darin ein Element suchen </small>
-</p>
-
-#### Bereich Softwareentwicklungsprozess
-<p style='text-align: left;'> 
-<small>• Mit gängigen Werkzeugen zur Unterstützung der Softwareentwicklung umgehen </small>
-<small>• Im Rahmen der Programmentwicklung Fehler finden und beheben </small>
-<small>• Einfache Testfälle definieren und damit Programme systematisch testen </small>
-
-</p>
-
-#### Bereich Softwareentwicklungsprozess
-<p style='text-align: left;'> 
-<small>• Entwicklungsumgebungen, Testen und Fehlersuche, Debugging </small>
-    
-</p>
 
 --
 
