@@ -147,7 +147,17 @@ Projekte im Griff behalten und sicherstellen, dass alles reibungslos läuft.
 ## Einfache Einführung
 ---
 ## C Addition
-![grafik](https://user-images.githubusercontent.com/95427526/207262358-ce783a71-0ac4-4cb9-bd72-c4060fc36ebc.png)
+```java
+#include <stdio.h>
+
+int main() {
+    int a = 8;
+    int b = 4;
+    int c = a + b;
+    printf("%d", c);
+    return 0;
+}
+```
 <br />
 Ausgabe:
 <br />
@@ -158,7 +168,16 @@ und in eine neue Variable c gespeichert. Diese am Ende mit "printf" ausgegeben w
 
 ---
 ## JAVA Multiplikation
-![grafik](https://user-images.githubusercontent.com/95427526/207261784-3d45f6c8-d32b-45e5-86f2-8dfbd49a30e1.png)
+```java
+	public class Main {
+	    public static void main(String[] args) {
+	        int a = 3;
+	        int b = 5;
+	        int c = a * b;
+	        System.out.println(c);
+	    }
+}
+```
 <br />
 Ausgabe:
 <br />
