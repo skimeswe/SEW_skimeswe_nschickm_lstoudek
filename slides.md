@@ -163,7 +163,9 @@ int main() {
 Ausgabe:
 <br />
 ```c
+
 12
+
 ```
 <small>In den Variablen a und b werden die entsprechenden Werte gespeichert anschließend werden diese beiden Variablen addiert
 und in eine neue Variable c gespeichert. Diese am Ende mit "printf" ausgegeben wird.</small>
@@ -184,7 +186,9 @@ und in eine neue Variable c gespeichert. Diese am Ende mit "printf" ausgegeben w
 Ausgabe:
 <br />
 ```java
+
 15
+
 ```
 <small> In den Variablen a und b werden die entsprechenden Werte gespeichert anschließend werden diese beiden Variablen multipliziert
 und in eine neue Variable c gespeichert. Diese am Ende mit "System.out.println" ausgegeben wird.</small>
