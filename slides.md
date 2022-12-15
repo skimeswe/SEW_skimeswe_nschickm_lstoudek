@@ -99,8 +99,9 @@ In diesem Beispiel wird "Hello, World!" ausgegeben.
 ## Beispiel OpenWeatherMap
 
 ![grafik](https://user-images.githubusercontent.com/95867710/205023958-8122f4f9-732a-48dd-914d-a0525dc643bd.png)
-
+<small>
 Das Programierbeispiel gibt das aktuelle Wetter für eine Stadt, in dem Beispiel Linz, und einer 4 Tagesprognose aus. Die Wetterproggnose wird mit der OpenWeatherMap, einer Schnittstelle für Wettervorhersagen, erzeugt.
+</small>
 
 --
 
@@ -111,15 +112,13 @@ Das Programierbeispiel gibt das aktuelle Wetter für eine Stadt, in dem Beispiel
 ### Github
 
 <p style='text-align: left;'> 
-<small> 
-• Plattform für die Entwicklung von Software
-• Verwaltung und Teilen von Code
-• Nachverfolgen von Änderungen
-• Erhalten von Feedback
-• Open-Source-Software
-• Unterstützung verschiedener Programmiersprachen
-• Vielzahl von Funktionen, um die Arbeit von Entwicklern zu erleichtern
-</small>
+<small>• Plattform für die Entwicklung von Software </small>
+<small>• Verwaltung und Teilen von Code </small>
+<small>• Nachverfolgen von Änderungen </small>
+<small>• Erhalten von Feedback </small>
+<small>• Open-Source-Software </small>
+<small>• Unterstützung verschiedener Programmiersprachen </small>
+<small>• Vielzahl von Funktionen, um die Arbeit von Entwicklern zu erleichtern </small>
 </p>
 
 ---
@@ -127,14 +126,12 @@ Das Programierbeispiel gibt das aktuelle Wetter für eine Stadt, in dem Beispiel
 ### Trello
 
 <p style='text-align: left;'> 
-<small> 
-• Projektmanagement-Tool
-• Hilft bei der Verwaltung von Aufgaben und Projekten
-• Visualisierung von Projekten
-• Geeignet für Einzelpersonen und Teams
-• Verfügbar als Web-Anwendung und mobile App
-• Hält Projekte auf Kurs und stellt sicher, dass alles reibungslos läuft.
-</small>
+<small>• Projektmanagement-Tool </small>
+<small>• Hilft bei der Verwaltung von Aufgaben und Projekten </small>
+<small>• Visualisierung von Projekten </small>
+<small>• Geeignet für Einzelpersonen und Teams </small>
+<small>• Verfügbar als Web-Anwendung und mobile App </small>
+<small>• Hält Projekte auf Kurs und stellt sicher, dass alles reibungslos läuft. </small>
 </p>
---
+
 
