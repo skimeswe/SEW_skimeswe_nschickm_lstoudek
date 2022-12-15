@@ -98,17 +98,9 @@ In diesem Beispiel wird "Hello, World!" ausgegeben.
 
 Das Programierbeispiel gibt das aktuelle Wetter für eine Stadt, in dem Beispiel Linz, und einer 4 Tagesprognose aus. Die Wetterproggnose wird mit der OpenWeatherMap, einer Schnittstelle für Wettervorhersagen, erzeugt.
 
-
 --
 
 ## Versionskontrolle
-
----
-
-#### Versionskontrolle
-![2022-12-13 08_38_21-Dokument1 - Word](https://user-images.githubusercontent.com/95427526/207254979-3de1a35b-5f23-4a43-aeef-8fb768b1fb53.png)
-Lifecycle
-<h5>Ist die gängige Vorgehensweise für die Entwicklung eines Programms.</h5>
 
 ---
 
@@ -116,13 +108,13 @@ Lifecycle
 
 <p style='text-align: left;'> 
 <small> 
-GitHub ist eine Plattform für die Entwicklung von Software, bietet Tools und Funktionen, 
-die es Entwicklerinnen und Entwicklern ermöglichen, ihren Code zu verwalten und zu teilen,
-Änderungen nachzuverfolgen und Feedback von anderen zu erhalten. GitHub wird oft verwendet,
-um Open-Source-Software zu entwickeln, bei der der Code für jedermann zugänglich ist. Es 
-bietet auch Unterstützung für verschiedene Programmiersprachen und bietet eine Vielzahl von 
-Funktionen, die es Entwicklerinnen und Entwicklern ermöglichen, ihre Arbeit effizienter 
-und erfolgreicher durchzuführen. 
+• Plattform für die Entwicklung von Software
+• Verwaltung und Teilen von Code
+• Nachverfolgen von Änderungen
+• Erhalten von Feedback
+• Open-Source-Software
+• Unterstützung verschiedener Programmiersprachen
+• Vielzahl von Funktionen, um die Arbeit von Entwicklern zu erleichtern
 </small>
 </p>
 
@@ -132,11 +124,12 @@ und erfolgreicher durchzuführen.
 
 <p style='text-align: left;'> 
 <small> 
-Trello ist ein mächtiges Projektmanagement-Tool, das dabei hilft, 
-Aufgaben und Projekte zu verwalten und zu visualisieren. Es eignet 
-sich sowohl für Einzelpersonen als auch für Teams und ist als 
-Web-Anwendung und mobile App verfügbar. Mit Trello können Sie Ihre
-Projekte im Griff behalten und sicherstellen, dass alles reibungslos läuft.
+• Projektmanagement-Tool
+• Hilft bei der Verwaltung von Aufgaben und Projekten
+• Visualisierung von Projekten
+• Geeignet für Einzelpersonen und Teams
+• Verfügbar als Web-Anwendung und mobile App
+• Hält Projekte auf Kurs und stellt sicher, dass alles reibungslos läuft.
 </small>
 </p>
 --
