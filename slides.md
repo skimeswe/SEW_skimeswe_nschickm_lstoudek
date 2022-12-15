@@ -27,6 +27,7 @@
 <small>• Einfache Programmbibliotheken für gängige Aufgaben verwenden </small>
 
 </p>
+
 ---
 
 #### Bereich Algorithmen und Datenstrukturen
@@ -34,7 +35,9 @@
 <small>• Einfache Datenstrukturen einsetzen </small> <br>
 <small>• Einfache Datenstrukturen sortieren und darin ein Element suchen </small>
 </p>
+
 ---
+
 #### Bereich Softwareentwicklungsprozess
 <p style='text-align: left;'> 
 <small>• Mit gängigen Werkzeugen zur Unterstützung der Softwareentwicklung umgehen </small>
@@ -42,6 +45,7 @@
 <small>• Einfache Testfälle definieren und damit Programme systematisch testen </small>
 <small>• Entwicklungsumgebungen, Testen und Fehlersuche, Debugging </small>
 </p>
+
 --
 
 ## Sprachen und Projekte
