@@ -1,5 +1,6 @@
 # Softwareentwicklung 
-<h2>(SEW) </h2> 
+<h2>(SEW) </h2> <img width="300" alt="image" src="https://www.htl-steyr.ac.at/images/htl/farbe_ohne_umriss_200_200.gif">
+
 
 --
 
