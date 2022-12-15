@@ -34,21 +34,14 @@
 <small>• Einfache Datenstrukturen einsetzen </small> <br>
 <small>• Einfache Datenstrukturen sortieren und darin ein Element suchen </small>
 </p>
-
+---
 #### Bereich Softwareentwicklungsprozess
 <p style='text-align: left;'> 
 <small>• Mit gängigen Werkzeugen zur Unterstützung der Softwareentwicklung umgehen </small>
 <small>• Im Rahmen der Programmentwicklung Fehler finden und beheben </small>
 <small>• Einfache Testfälle definieren und damit Programme systematisch testen </small>
-
-</p>
-
-#### Bereich Softwareentwicklungsprozess
-<p style='text-align: left;'> 
 <small>• Entwicklungsumgebungen, Testen und Fehlersuche, Debugging </small>
-    
 </p>
-
 --
 
 ## Sprachen und Projekte
@@ -56,7 +49,7 @@
 ---
 
 ## C & C++
-C sowie C++ werden als erste Programmiersprachen gelernt, aufgrund ihre Einfachheit. Das gewonnene Verständis hilft, zum Aufbau weiteren Programmiersprachen.
+C sowie C++ werden als einführende Programmiersprachen gelernt. Die gewonnenen Programmerkenntnisse werden in den weiteren Programmiersprachen vertieft.
 
 ```c++ 
 #include <iostream>
@@ -72,8 +65,9 @@ In diesem Beispiel wird "Hello, World!" ausgegeben.
 
 ---
 
-## JAVA & JAVAFX
-Der primäre Fokus der 3. bis 5. Klasse liegt auf Java, einer der am meist verwendeten Programmiersprache. Erweitert wird Java mit Java Spring um Anwendung schneller und effizienter zu machen, sowie JavaFx, einer auf Java basierenten Plattform zur grafischen Darstellung.
+## JAVA & JAVAF
+Java zählt zu den meist benutzen Programiersprachen. Für die Gestaltung von Benutzeroberflächen wird JavaFX verwendet.
+
 
 ```java
 public class Main {
@@ -90,7 +84,7 @@ In diesem Beispiel wird "Hello, World!" ausgegeben.
 ## Projekte
 
 - Wetter Karte  
-- Raspberry Pi/ LED Cube 
+- Externe Hardware über den Raspberry Pi ansteuern 
 - Schiffe versenken 
 - Vier gewinnt
 - Live Chat 
@@ -102,7 +96,8 @@ In diesem Beispiel wird "Hello, World!" ausgegeben.
 
 ![grafik](https://user-images.githubusercontent.com/95867710/205023958-8122f4f9-732a-48dd-914d-a0525dc643bd.png)
 
-Gibt das aktuelle Wetter in einer gewüschten Stadt (Linz) mit einer 5 Tages Prognose aus. Wird umgesetzt mittels OpenWeatherMap, ein Dienst für Wettervorhersagen.
+Das Programierbeispiel gibt das aktuelle Wetter für eine Stadt, in dem Beispiel Linz, und einer 4 Tagesprognose aus. Die Wetterproggnose wird mit der OpenWeatherMap, einer Schnittstelle für Wettervorhersagen, erzeugt.
+
 
 --
 
@@ -112,7 +107,7 @@ Gibt das aktuelle Wetter in einer gewüschten Stadt (Linz) mit einer 5 Tages Pro
 
 #### Versionskontrolle
 ![2022-12-13 08_38_21-Dokument1 - Word](https://user-images.githubusercontent.com/95427526/207254979-3de1a35b-5f23-4a43-aeef-8fb768b1fb53.png)
-
+Lifecycle
 <h5>Ist die gängige Vorgehensweise für die Entwicklung eines Programms.</h5>
 
 ---
@@ -145,54 +140,4 @@ Projekte im Griff behalten und sicherstellen, dass alles reibungslos läuft.
 </small>
 </p>
 --
-
-## Einfache Einführung
----
-## C Addition
-```c
-#include <stdio.h>
-
-int main() {
-    int a = 8;
-    int b = 4;
-    int c = a + b;
-    printf("%d", c);
-    return 0;
-}
-```
-<br />
-Ausgabe:
-<br />
-
-```c++
-
-12
-```
-
-<small>In den Variablen a und b werden die entsprechenden Werte gespeichert anschließend werden diese beiden Variablen addiert
-und in eine neue Variable c gespeichert. Diese am Ende mit "printf" ausgegeben wird.</small>
-
----
-## JAVA Multiplikation
-```java
-	public class Main {
-	    public static void main(String[] args) {
-	        int a = 3;
-	        int b = 5;
-	        int c = a * b;
-	        System.out.println(c);
-	    }
-}
-```
-<br />
-Ausgabe:
-<br />
-
-```c++
-
-15
-```
-
-<small> In den Variablen a und b werden die entsprechenden Werte gespeichert anschließend werden diese beiden Variablen multipliziert
-und in eine neue Variable c gespeichert. Diese am Ende mit "System.out.println" ausgegeben wird.</small>
 
