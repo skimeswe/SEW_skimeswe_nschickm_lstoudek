@@ -21,10 +21,10 @@
 
 #### Strukturierte Programmierung 
 <p style='text-align: left;'> 
-<small>• Programme mit Hilfe von Methoden oder Funktionen strukturieren und in einer höheren Programmiersprache umsetzen </small>
-<small>• Elementare Datentypen und Kontrollstrukturen erläutern sowie geeignete Datentypen für ihre Programme auswählen </small>
-<small>• Einfache API-Dokumentationen auf Methodenebene lesen und verstehen </small>
-<small>• Einfache Programmbibliotheken für gängige Aufgaben verwenden </small>
+<small>• Programme mit Hilfe von Methoden oder Funktionen strukturieren und in einer höheren Programmiersprache umsetzen </small> <br>
+<small>• Elementare Datentypen und Kontrollstrukturen erläutern sowie geeignete Datentypen für ihre Programme auswählen </small> <br>
+<small>• Einfache API-Dokumentationen auf Methodenebene lesen und verstehen </small> <br>
+<small>• Einfache Programmbibliotheken für gängige Aufgaben verwenden </small> <br>
 
 </p>
 
@@ -33,17 +33,17 @@
 #### Bereich Algorithmen und Datenstrukturen
 <p style='text-align: left;'> 
 <small>• Einfache Datenstrukturen einsetzen </small> <br>
-<small>• Einfache Datenstrukturen sortieren und darin ein Element suchen </small>
+<small>• Einfache Datenstrukturen sortieren und darin ein Element suchen </small> <br>
 </p>
 
 ---
 
 #### Bereich Softwareentwicklungsprozess
 <p style='text-align: left;'> 
-<small>• Mit gängigen Werkzeugen zur Unterstützung der Softwareentwicklung umgehen </small>
-<small>• Im Rahmen der Programmentwicklung Fehler finden und beheben </small>
-<small>• Einfache Testfälle definieren und damit Programme systematisch testen </small>
-<small>• Entwicklungsumgebungen, Testen und Fehlersuche, Debugging </small>
+<small>• Mit gängigen Werkzeugen zur Unterstützung der Softwareentwicklung umgehen </small> <br>
+<small>• Im Rahmen der Programmentwicklung Fehler finden und beheben </small> <br>
+<small>• Einfache Testfälle definieren und damit Programme systematisch testen </small> <br>
+<small>• Entwicklungsumgebungen, Testen und Fehlersuche, Debugging </small> <br>
 </p>
 
 --
@@ -112,13 +112,13 @@ Das Programierbeispiel gibt das aktuelle Wetter für eine Stadt, in dem Beispiel
 ### Github
 
 <p style='text-align: left;'> 
-<small>• Plattform für die Entwicklung von Software </small>
-<small>• Verwaltung und Teilen von Code </small>
-<small>• Nachverfolgen von Änderungen </small>
-<small>• Erhalten von Feedback </small>
-<small>• Open-Source-Software </small>
-<small>• Unterstützung verschiedener Programmiersprachen </small>
-<small>• Vielzahl von Funktionen, um die Arbeit von Entwicklern zu erleichtern </small>
+<small>• Plattform für die Entwicklung von Software </small> <br>
+<small>• Verwaltung und Teilen von Code </small> <br>
+<small>• Nachverfolgen von Änderungen </small> <br>
+<small>• Erhalten von Feedback </small> <br>
+<small>• Open-Source-Software </small> <br>
+<small>• Unterstützung verschiedener Programmiersprachen </small> <br>
+<small>• Vielzahl von Funktionen, um die Arbeit von Entwicklern zu erleichtern </small> <br>
 </p>
 
 ---
@@ -126,12 +126,12 @@ Das Programierbeispiel gibt das aktuelle Wetter für eine Stadt, in dem Beispiel
 ### Trello
 
 <p style='text-align: left;'> 
-<small>• Projektmanagement-Tool </small>
-<small>• Hilft bei der Verwaltung von Aufgaben und Projekten </small>
-<small>• Visualisierung von Projekten </small>
-<small>• Geeignet für Einzelpersonen und Teams </small>
-<small>• Verfügbar als Web-Anwendung und mobile App </small>
-<small>• Hält Projekte auf Kurs und stellt sicher, dass alles reibungslos läuft. </small>
+<small>• Projektmanagement-Tool </small> <br>
+<small>• Hilft bei der Verwaltung von Aufgaben und Projekten </small> <br>
+<small>• Visualisierung von Projekten </small> <br>
+<small>• Geeignet für Einzelpersonen und Teams </small> <br>
+<small>• Verfügbar als Web-Anwendung und mobile App </small> <br>
+<small>• Hält Projekte auf Kurs und stellt sicher, dass alles reibungslos läuft. </small> <br>
 </p>
 
 
