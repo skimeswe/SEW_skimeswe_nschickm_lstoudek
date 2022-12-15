@@ -163,6 +163,7 @@ int main() {
 <br />
 Ausgabe:
 <br />
+
 ```c++
 
 12
@@ -186,6 +187,7 @@ und in eine neue Variable c gespeichert. Diese am Ende mit "printf" ausgegeben w
 <br />
 Ausgabe:
 <br />
+
 ```c++
 
 15
